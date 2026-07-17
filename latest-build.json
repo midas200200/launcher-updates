@@ -1,7 +1,7 @@
 {
-  "id": 2,
+  "id": 3,
   "windows": {
-    "path": "https://github.com/midas200200/launcher-updates/releases/download/v2/TestGame-build-2.zip",
-    "sha256": "fb6cff8a9ab75ef433b17729423b6e35641321fa841d3a46110d96a71b8d3c75"
+    "path": "https://github.com/midas200200/launcher-updates/releases/download/v3/TestGame-build-3.zip",
+    "sha256": "884e5c2e61c8af1b7eef434974a1ee912ca2b53536fab72bb62c4772b3e51c90"
   }
 }
