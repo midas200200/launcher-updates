@@ -1,16 +1,16 @@
 {
   "game": {
-    "id": 5,
+    "id": 6,
     "windows": {
-      "path": "https://github.com/midas200200/launcher-updates/releases/download/update-5/TestGame-build-5.zip",
-      "sha256": "decd157a66b97acd894d1de2ae99270fb2f984c5a268e41ab117eacf5fc94afa"
+      "path": "https://github.com/midas200200/launcher-updates/releases/download/update-6/TestGame-build-6.zip",
+      "sha256": "24e3c9f3f84affa6b1e7c8d66c42bb469ff424f5bf9df58c1d10357670c5aeb2"
     }
   },
   "launcher": {
-    "id": 3,
+    "id": 5,
     "windows": {
-      "path": "https://github.com/midas200200/launcher-updates/releases/download/update-5/TestLauncher-build-3.zip",
-      "sha256": "5a40d8de6e7d5fcbdcf949cbbfca9f0754497f2e2d5e7fc014f91c0c4c8c2756"
+      "path": "https://github.com/midas200200/launcher-updates/releases/download/update-6/MidasLauncher-build-5.zip",
+      "sha256": "63b54fc23239149e6b934c2f635a6da58458e399c4837c7cd430ff69a623dfd7"
     }
   }
 }
