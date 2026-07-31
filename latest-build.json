@@ -1,9 +1,9 @@
 {
   "game": {
-    "id": 6,
+    "id": 8,
     "windows": {
-      "path": "https://github.com/midas200200/launcher-updates/releases/download/update-6/TestGame-build-6.zip",
-      "sha256": "24e3c9f3f84affa6b1e7c8d66c42bb469ff424f5bf9df58c1d10357670c5aeb2"
+      "path": "https://github.com/midas200200/launcher-updates/releases/download/v8/MidasGame-build-8.zip",
+      "sha256": "b7b5ee6a431b188b468180377c5dc706bbbf55b0d84cdbc755ebab5b252e4ede"
     }
   },
   "launcher": {
